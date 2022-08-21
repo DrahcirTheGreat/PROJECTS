@@ -1,0 +1,2 @@
+# PROJECTS
+For educational purposes
